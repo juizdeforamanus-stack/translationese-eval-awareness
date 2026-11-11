@@ -1,0 +1,122 @@
+[
+ {
+  "scenario": "13",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "27",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "13",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "05",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "19",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "28",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "09",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "28",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "30",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "12",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "05",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "01",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "26",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "11",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "04",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "01",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "19",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "11",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "06",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "03",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "12",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "21",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "02",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "18",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "08",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "29",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "23",
+  "condition": "PT-NAT"
+ },
+ {
+  "scenario": "06",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "22",
+  "condition": "PT-TR"
+ },
+ {
+  "scenario": "22",
+  "condition": "PT-NAT"
+ }
+]
